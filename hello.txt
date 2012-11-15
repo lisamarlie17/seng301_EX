@@ -1,3 +1,9 @@
 Hello
 
+<<<<<<< HEAD
 HI from Sydney
+=======
+How are you?=)
+
+
+>>>>>>> origin
